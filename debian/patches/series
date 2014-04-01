@@ -1,0 +1,8 @@
+fix-gtkdoc-error.patch
+dfg-jit.patch
+install-minibrowser.patch
+atomic_build_fix.patch
+restore_sparc_code.patch
+enable_llint.patch
+02_notebook_scroll.patch
+fix-textrel-x86.patch
